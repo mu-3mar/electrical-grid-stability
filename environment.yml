@@ -1,0 +1,6 @@
+name: electrical-grid
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+prefix: /home/muhammad-ammar/miniforge3/envs/electrical-grid
